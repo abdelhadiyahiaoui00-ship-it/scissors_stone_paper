@@ -399,3 +399,21 @@ obj/
 *.log
 *.tmp
 *.bak
+# Visual Studio files
+.vs/
+x64/
+Debug/
+Release/
+*.user
+*.suo
+*.sln.docstates
+*.sdf
+*.ipch
+
+# Build outputs
+*.exe
+*.dll
+*.lib
+*.pdb
+*.obj
+*.ilk
